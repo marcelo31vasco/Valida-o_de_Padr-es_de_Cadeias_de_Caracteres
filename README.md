@@ -40,7 +40,7 @@ Para rodar este projeto na sua máquina, você precisará de um compilador C (co
 
 1. Clone o repositório:
 
-git clone https://github.com/marcelo31vasco/Valida-o_de_Padr-es_de_Cadeias_de_Caracteres.git
+git clone https://github.com/marcelo31vasco/Validador_de_Padroes_de_Cadeias_de_Caracteres.git
 
 ### 👨‍💻 Autor
 Marcelo Vitorino Dantas Júnior
