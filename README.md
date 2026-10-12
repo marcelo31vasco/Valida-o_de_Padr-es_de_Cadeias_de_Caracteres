@@ -38,5 +38,13 @@ Para modularizar o sistema, o código foi dividido em pequenas funções de chec
 
 Para rodar este projeto na sua máquina, você precisará de um compilador C (como o GCC).
 
+1. Clone o repositório:
+```bash
+git clone https://github.com/marcelo31vasco/Valida-o_de_Padr-es_de_Cadeias_de_Caracteres.git
 
+### 👨‍💻 Autor
+Marcelo Vitorino Dantas Júnior
 
+Mestrando em Ciência da Computação - UFPA
+
+GitHub: @marcelo31vasco
